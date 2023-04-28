@@ -3,12 +3,12 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "auto_gpt_plugin_template"
+name = "ragdoll_ai"
 version = "0.0.2"
 authors = [
-  { name="Torantulino", email="34168009+BillSchumacher@users.noreply.github.com" },
+  { name="Daniel", email="" },
 ]
-description = "The template plugin for Auto-GPT."
+description = "The ragdoll plugin for Auto-GPT."
 readme = "README.md"
 requires-python = ">=3.8"
 classifiers = [
